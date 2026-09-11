@@ -7,5 +7,5 @@ This repository was initialized locally and pushed from `E:\git`.
 Clone the repository:
 
 ```bash
-git clone https://github.com/wushiyi/wushiyi105-jpg.git
+git clone https://github.com/wushiyi105-jpg/wushiyi105-jpg.git
 ```
