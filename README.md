@@ -1,4 +1,4 @@
-# wushiyi105-jpg
+# wushiyi105
 
 This repository was initialized locally and pushed from `E:\git`.
 
